@@ -82,3 +82,269 @@ SyntaxError: unterminated string literal (detected at line 15)
 [2023-10-22T20:18:38.603+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:38.603+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-22T20:18:38.607+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:38.607+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
 [2023-10-22T20:18:38.619+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:19:14.479+0400] {processor.py:157} INFO - Started process (PID=6665) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:14.481+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:19:14.482+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:14.481+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:14.487+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:14.496+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:14.496+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:19:14.501+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:14.501+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:19:14.510+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:19:54.089+0400] {processor.py:157} INFO - Started process (PID=6722) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:54.090+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:19:54.091+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:54.091+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:54.095+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:19:54.102+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:54.102+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:19:54.107+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:54.107+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:19:54.120+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:20:32.172+0400] {processor.py:157} INFO - Started process (PID=6761) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:20:32.175+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:20:32.176+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:32.175+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:20:32.181+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:20:32.188+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:32.188+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:20:32.194+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:32.194+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:20:32.206+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.037 seconds
+[2023-10-22T20:21:08.952+0400] {processor.py:157} INFO - Started process (PID=6798) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:08.953+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:21:08.954+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:08.954+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:08.960+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:08.968+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:08.967+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:21:08.972+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:08.972+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:21:08.982+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:21:47.818+0400] {processor.py:157} INFO - Started process (PID=6836) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:47.819+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:21:47.820+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:47.820+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:47.825+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:21:47.834+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:47.834+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:21:47.839+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:47.838+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:21:47.849+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:22:25.266+0400] {processor.py:157} INFO - Started process (PID=6876) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:22:25.269+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:22:25.270+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:25.269+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:22:25.274+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:22:25.281+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:25.281+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:22:25.285+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:25.285+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:22:25.297+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.035 seconds
+[2023-10-22T20:23:01.286+0400] {processor.py:157} INFO - Started process (PID=6912) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:01.287+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:23:01.288+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:01.287+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:01.292+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:01.299+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:01.299+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:23:01.304+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:01.304+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:23:01.315+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.032 seconds
+[2023-10-22T20:23:38.316+0400] {processor.py:157} INFO - Started process (PID=6950) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:38.318+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:23:38.319+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:38.318+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:38.323+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:23:38.330+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:38.330+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:23:38.335+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:38.335+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:23:38.345+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.032 seconds
+[2023-10-22T20:24:15.339+0400] {processor.py:157} INFO - Started process (PID=6989) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:15.340+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:24:15.342+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:15.341+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:15.346+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:15.353+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:15.353+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:24:15.357+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:15.357+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:24:15.367+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.031 seconds
+[2023-10-22T20:24:51.873+0400] {processor.py:157} INFO - Started process (PID=7024) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:51.875+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:24:51.877+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:51.876+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:51.881+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:24:51.888+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:51.888+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:24:51.893+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:51.893+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:24:51.906+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.035 seconds
+[2023-10-22T20:25:31.935+0400] {processor.py:157} INFO - Started process (PID=7063) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:25:31.936+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:25:31.937+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:31.937+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:25:31.941+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:25:31.948+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:31.947+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:25:31.953+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:31.952+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:25:31.965+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:26:22.531+0400] {processor.py:157} INFO - Started process (PID=7156) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:26:22.532+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:26:22.533+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:22.532+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:26:22.537+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:26:22.544+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:22.544+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:26:22.548+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:22.548+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:26:22.558+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.031 seconds
+[2023-10-22T20:27:02.785+0400] {processor.py:157} INFO - Started process (PID=7218) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:02.786+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:27:02.787+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:02.787+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:02.792+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:02.799+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:02.799+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:27:02.804+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:02.804+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:27:02.815+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:27:42.759+0400] {processor.py:157} INFO - Started process (PID=7260) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:42.761+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:27:42.762+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:42.761+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:42.769+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:27:42.778+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:42.778+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:27:42.784+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:42.784+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:27:42.795+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.039 seconds
+[2023-10-22T20:28:19.519+0400] {processor.py:157} INFO - Started process (PID=7307) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:19.521+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:28:19.522+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:19.521+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:19.526+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:19.533+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:19.533+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:28:19.538+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:19.538+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:28:19.548+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:28:57.383+0400] {processor.py:157} INFO - Started process (PID=7345) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:57.384+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:28:57.385+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:57.385+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:57.391+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:28:57.398+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:57.398+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:28:57.403+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:57.403+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:28:57.413+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:29:34.048+0400] {processor.py:157} INFO - Started process (PID=7382) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:29:34.049+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:29:34.050+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:34.050+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:29:34.054+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:29:34.061+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:34.061+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:29:34.066+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:34.066+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:29:34.076+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.031 seconds
+[2023-10-22T20:30:14.184+0400] {processor.py:157} INFO - Started process (PID=7422) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:14.186+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:30:14.187+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:14.186+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:14.191+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:14.199+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:14.199+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:30:14.203+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:14.203+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:30:14.214+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.032 seconds
+[2023-10-22T20:30:55.783+0400] {processor.py:157} INFO - Started process (PID=7462) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:55.784+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:30:55.785+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:55.785+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:55.791+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:30:55.798+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:55.798+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:30:55.803+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:55.803+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:30:55.813+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:31:34.504+0400] {processor.py:157} INFO - Started process (PID=7500) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:31:34.505+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:31:34.506+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:34.505+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:31:34.509+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:31:34.517+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:34.517+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:31:34.522+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:34.522+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:31:34.534+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:32:11.617+0400] {processor.py:157} INFO - Started process (PID=7539) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:11.619+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:32:11.620+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:11.620+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:11.630+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:11.646+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:11.646+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:32:11.655+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:11.655+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:32:11.666+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.054 seconds
+[2023-10-22T20:32:48.786+0400] {processor.py:157} INFO - Started process (PID=7575) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:48.787+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:32:48.789+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:48.788+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:48.795+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:32:48.802+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:48.802+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:32:48.807+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:48.807+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:32:48.817+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:33:26.187+0400] {processor.py:157} INFO - Started process (PID=7648) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:33:26.189+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:33:26.190+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:26.190+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:33:26.195+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:33:26.204+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:26.204+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:33:26.210+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:26.210+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:33:26.220+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.036 seconds
+[2023-10-22T20:34:04.204+0400] {processor.py:157} INFO - Started process (PID=7689) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:04.205+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:34:04.206+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:04.205+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:04.209+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:04.217+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:04.217+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:34:04.222+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:04.222+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:34:04.235+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.034 seconds
+[2023-10-22T20:34:40.659+0400] {processor.py:157} INFO - Started process (PID=7727) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:40.661+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:34:40.662+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:40.661+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:40.666+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:34:40.674+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:40.674+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:34:40.678+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:40.678+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:34:40.691+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.035 seconds
+[2023-10-22T20:35:16.013+0400] {processor.py:157} INFO - Started process (PID=7764) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:16.015+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:35:16.016+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:16.015+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:16.020+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:16.027+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:16.027+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:35:16.032+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:16.032+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:35:16.042+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.032 seconds
+[2023-10-22T20:35:55.012+0400] {processor.py:157} INFO - Started process (PID=7822) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:55.014+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:35:55.015+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:55.014+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:55.020+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:35:55.029+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:55.029+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:35:55.034+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:55.034+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:35:55.046+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.037 seconds
+[2023-10-22T20:36:33.934+0400] {processor.py:157} INFO - Started process (PID=7859) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:36:33.935+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:36:33.936+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:33.936+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:36:33.940+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:36:33.948+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:33.948+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:36:33.954+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:33.954+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:36:33.967+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.036 seconds
+[2023-10-22T20:37:10.860+0400] {processor.py:157} INFO - Started process (PID=7897) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:10.861+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:37:10.862+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:10.861+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:10.865+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:10.873+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:10.873+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:37:10.877+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:10.877+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:37:10.888+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.031 seconds
+[2023-10-22T20:37:50.754+0400] {processor.py:157} INFO - Started process (PID=7937) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:50.756+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:37:50.757+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:50.756+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:50.761+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:37:50.768+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:50.768+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:37:50.773+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:50.773+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:37:50.784+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:38:30.022+0400] {processor.py:157} INFO - Started process (PID=7978) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:38:30.025+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:38:30.025+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:30.025+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:38:30.029+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:38:30.038+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:30.038+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:38:30.044+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:30.044+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:38:30.060+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.041 seconds
+[2023-10-22T20:39:07.869+0400] {processor.py:157} INFO - Started process (PID=8017) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:07.870+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:39:07.873+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:07.871+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:07.879+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:07.886+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:07.886+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:39:07.892+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:07.892+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:39:07.906+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.040 seconds
+[2023-10-22T20:39:47.223+0400] {processor.py:157} INFO - Started process (PID=8056) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:47.225+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:39:47.226+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:47.225+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:47.230+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:39:47.238+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:47.238+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:39:47.243+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:47.243+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:39:47.255+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.035 seconds
+[2023-10-22T20:40:25.934+0400] {processor.py:157} INFO - Started process (PID=8093) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:40:25.937+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:40:25.938+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:25.937+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:40:25.953+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:40:25.963+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:25.963+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:40:25.968+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:25.968+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:40:25.983+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.054 seconds
+[2023-10-22T20:41:07.292+0400] {processor.py:157} INFO - Started process (PID=8133) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:07.294+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:41:07.295+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:07.294+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:07.301+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:07.311+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:07.310+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:41:07.318+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:07.317+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:41:07.333+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.043 seconds
+[2023-10-22T20:41:53.600+0400] {processor.py:157} INFO - Started process (PID=8243) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:53.601+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:41:53.603+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:53.602+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:53.608+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:41:53.615+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:53.615+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:41:53.621+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:53.621+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:41:53.632+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.035 seconds
+[2023-10-22T20:42:41.746+0400] {processor.py:157} INFO - Started process (PID=8305) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:42:41.747+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:42:41.748+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:41.748+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:42:41.753+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:42:41.760+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:41.760+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:42:41.765+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:41.765+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:42:41.775+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.033 seconds
+[2023-10-22T20:43:18.783+0400] {processor.py:157} INFO - Started process (PID=8381) to work on /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:43:18.785+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py for tasks to queue
+[2023-10-22T20:43:18.786+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:18.785+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:43:18.791+0400] {processor.py:839} INFO - DAG(s) dict_keys(['iris_score']) retrieved from /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py
+[2023-10-22T20:43:18.800+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:18.800+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:43:18.806+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:18.806+0400] {dag.py:3722} INFO - Setting next_dagrun for iris_score to None, run_after=None
+[2023-10-22T20:43:18.818+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/airflow/dags/iris_score.py took 0.038 seconds

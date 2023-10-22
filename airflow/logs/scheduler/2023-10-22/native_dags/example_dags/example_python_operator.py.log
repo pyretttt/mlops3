@@ -626,3 +626,219 @@
 [2023-10-22T20:18:09.897+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:09.897+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-22T20:18:09.902+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:09.902+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2023-10-22T20:18:09.913+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2023-10-22T20:19:04.590+0400] {processor.py:157} INFO - Started process (PID=6649) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:19:04.591+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:19:04.593+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:04.592+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:19:04.598+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:04.598+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:19:04.599+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:19:04.607+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:04.606+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:19:04.611+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:04.611+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:19:04.622+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2023-10-22T20:20:03.352+0400] {processor.py:157} INFO - Started process (PID=6731) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:03.354+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:20:03.355+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:03.354+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:03.360+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:03.360+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:20:03.360+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:03.369+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:03.369+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:20:03.374+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:03.374+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:20:03.384+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.035 seconds
+[2023-10-22T20:20:59.579+0400] {processor.py:157} INFO - Started process (PID=6788) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:59.581+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:20:59.582+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:59.581+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:59.587+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:59.587+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:20:59.587+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:20:59.595+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:59.595+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:20:59.600+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:59.599+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:20:59.610+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2023-10-22T20:21:56.640+0400] {processor.py:157} INFO - Started process (PID=6845) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:21:56.642+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:21:56.643+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:56.642+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:21:56.648+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:56.648+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:21:56.648+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:21:56.656+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:56.656+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:21:56.662+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:56.661+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:21:56.673+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.035 seconds
+[2023-10-22T20:22:51.690+0400] {processor.py:157} INFO - Started process (PID=6902) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:22:51.691+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:22:51.693+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:51.692+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:22:51.699+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:51.699+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:22:51.700+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:22:51.710+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:51.710+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:22:51.715+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:51.715+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:22:51.725+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-10-22T20:23:46.891+0400] {processor.py:157} INFO - Started process (PID=6959) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:23:46.892+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:23:46.893+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:46.893+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:23:46.899+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:46.899+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:23:46.900+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:23:46.908+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:46.908+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:23:46.912+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:46.912+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:23:46.922+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2023-10-22T20:24:41.486+0400] {processor.py:157} INFO - Started process (PID=7014) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:24:41.488+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:24:41.489+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:41.488+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:24:41.494+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:41.494+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:24:41.494+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:24:41.502+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:41.502+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:24:41.507+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:41.507+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:24:41.520+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2023-10-22T20:25:46.377+0400] {processor.py:157} INFO - Started process (PID=7120) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:25:46.378+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:25:46.379+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:46.379+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:25:46.384+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:46.384+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:25:46.384+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:25:46.393+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:46.393+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:25:46.399+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:46.399+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:25:46.411+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.037 seconds
+[2023-10-22T20:26:31.741+0400] {processor.py:157} INFO - Started process (PID=7165) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:26:31.743+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:26:31.744+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:31.744+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:26:31.750+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:31.750+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:26:31.750+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:26:31.759+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:31.759+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:26:31.763+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:31.763+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:26:31.774+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2023-10-22T20:27:13.439+0400] {processor.py:157} INFO - Started process (PID=7229) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:27:13.440+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:27:13.441+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:13.441+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:27:13.446+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:13.446+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:27:13.446+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:27:13.454+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:13.454+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:27:13.458+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:13.458+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:27:13.469+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2023-10-22T20:28:10.584+0400] {processor.py:157} INFO - Started process (PID=7297) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:28:10.585+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:28:10.586+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:10.586+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:28:10.595+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:10.595+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:28:10.595+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:28:10.604+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:10.604+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:28:10.609+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:10.608+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:28:10.619+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-10-22T20:29:06.847+0400] {processor.py:157} INFO - Started process (PID=7354) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:29:06.847+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:29:06.848+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:06.848+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:29:06.852+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:06.852+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:29:06.852+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:29:06.861+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:06.860+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:29:06.865+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:06.865+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:29:06.876+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.032 seconds
+[2023-10-22T20:30:05.352+0400] {processor.py:157} INFO - Started process (PID=7412) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:05.354+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:30:05.355+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:05.354+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:05.361+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:05.361+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:30:05.361+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:05.371+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:05.371+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:30:05.375+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:05.375+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:30:05.386+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2023-10-22T20:30:51.094+0400] {processor.py:157} INFO - Started process (PID=7457) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:51.095+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:30:51.096+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:51.095+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:51.100+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:51.100+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:30:51.100+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:30:51.108+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:51.108+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:30:51.112+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:51.112+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:30:51.121+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.031 seconds
+[2023-10-22T20:31:48.388+0400] {processor.py:157} INFO - Started process (PID=7514) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:31:48.389+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:31:48.390+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:48.390+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:31:48.395+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:48.395+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:31:48.395+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:31:48.403+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:48.403+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:31:48.407+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:48.407+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:31:48.418+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2023-10-22T20:32:43.445+0400] {processor.py:157} INFO - Started process (PID=7570) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:32:43.446+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:32:43.447+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:43.446+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:32:43.452+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:43.452+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:32:43.452+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:32:43.462+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:43.462+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:32:43.468+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:43.468+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:32:43.480+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-10-22T20:33:39.404+0400] {processor.py:157} INFO - Started process (PID=7661) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:33:39.406+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:33:39.407+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:39.406+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:33:39.411+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:39.411+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:33:39.412+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:33:39.420+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:39.420+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:33:39.425+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:39.425+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:33:39.437+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.037 seconds
+[2023-10-22T20:34:35.406+0400] {processor.py:157} INFO - Started process (PID=7721) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:34:35.407+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:34:35.408+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:35.407+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:34:35.413+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:35.413+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:34:35.413+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:34:35.426+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:35.426+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:34:35.434+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:35.434+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:34:35.446+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.042 seconds
+[2023-10-22T20:35:31.188+0400] {processor.py:157} INFO - Started process (PID=7797) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:35:31.189+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:35:31.190+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:31.190+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:35:31.196+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:31.196+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:35:31.196+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:35:31.206+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:31.205+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:35:31.211+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:31.211+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:35:31.223+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-10-22T20:36:28.320+0400] {processor.py:157} INFO - Started process (PID=7854) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:36:28.321+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:36:28.322+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:28.322+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:36:28.329+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:28.329+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:36:28.329+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:36:28.337+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:28.337+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:36:28.342+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:28.341+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:36:28.353+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.037 seconds
+[2023-10-22T20:37:25.757+0400] {processor.py:157} INFO - Started process (PID=7911) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:37:25.758+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:37:25.759+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:25.759+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:37:25.764+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:25.764+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:37:25.764+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:37:25.773+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:25.773+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:37:25.778+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:25.778+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:37:25.788+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.034 seconds
+[2023-10-22T20:38:25.100+0400] {processor.py:157} INFO - Started process (PID=7973) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:38:25.102+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:38:25.103+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:25.102+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:38:25.108+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:25.108+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:38:25.108+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:38:25.116+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:25.116+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:38:25.121+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:25.120+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:38:25.133+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.036 seconds
+[2023-10-22T20:39:22.301+0400] {processor.py:157} INFO - Started process (PID=8030) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:39:22.302+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:39:22.302+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:22.302+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:39:22.308+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:22.308+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:39:22.308+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:39:22.317+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:22.317+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:39:22.321+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:22.321+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:39:22.335+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.038 seconds
+[2023-10-22T20:40:20.626+0400] {processor.py:157} INFO - Started process (PID=8088) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:40:20.627+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:40:20.628+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:20.628+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:40:20.633+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:20.633+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:40:20.634+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:40:20.642+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:20.642+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:40:20.646+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:20.646+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:40:20.656+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.033 seconds
+[2023-10-22T20:41:22.224+0400] {processor.py:157} INFO - Started process (PID=8148) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:41:22.225+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:41:22.226+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:22.226+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:41:22.230+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:22.230+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:41:22.231+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:41:22.239+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:22.239+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:41:22.244+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:22.244+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:41:22.256+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.035 seconds
+[2023-10-22T20:42:08.147+0400] {processor.py:157} INFO - Started process (PID=8258) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:08.150+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:42:08.151+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:08.150+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:08.160+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:08.160+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:42:08.160+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:08.168+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:08.168+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:42:08.173+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:08.173+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:42:08.185+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.041 seconds
+[2023-10-22T20:42:56.146+0400] {processor.py:157} INFO - Started process (PID=8332) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:56.147+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2023-10-22T20:42:56.150+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:56.148+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:56.160+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:56.160+0400] {example_python_operator.py:89} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2023-10-22T20:42:56.160+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2023-10-22T20:42:56.169+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:56.169+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:42:56.174+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:56.174+0400] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2023-10-22T20:42:56.185+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.043 seconds

@@ -688,3 +688,276 @@
 [2023-10-22T20:18:24.468+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:24.468+0400] {dag.py:2941} INFO - Sync 1 DAGs
 [2023-10-22T20:18:24.476+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:18:24.476+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:18:24.476472+00:00, run_after=2023-10-22T16:18:24.476472+00:00
 [2023-10-22T20:18:24.486+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2023-10-22T20:19:01.655+0400] {processor.py:157} INFO - Started process (PID=6646) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:01.656+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:19:01.657+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:01.656+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:01.661+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:01.668+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:01.668+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:19:01.677+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:01.677+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:19:01.677127+00:00, run_after=2023-10-22T16:19:01.677127+00:00
+[2023-10-22T20:19:01.688+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:19:38.762+0400] {processor.py:157} INFO - Started process (PID=6708) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:38.764+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:19:38.766+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:38.765+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:38.771+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:19:38.779+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:38.779+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:19:38.787+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:19:38.787+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:19:38.787537+00:00, run_after=2023-10-22T16:19:38.787537+00:00
+[2023-10-22T20:19:38.799+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2023-10-22T20:20:18.001+0400] {processor.py:157} INFO - Started process (PID=6746) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:18.003+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:20:18.004+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:18.003+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:18.013+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:18.022+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:18.022+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:20:18.032+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:18.032+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:20:18.032136+00:00, run_after=2023-10-22T16:20:18.032136+00:00
+[2023-10-22T20:20:18.044+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.048 seconds
+[2023-10-22T20:20:56.905+0400] {processor.py:157} INFO - Started process (PID=6784) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:56.906+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:20:56.908+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:56.907+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:56.913+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:20:56.920+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:56.920+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:20:56.928+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:20:56.927+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:20:56.927858+00:00, run_after=2023-10-22T16:20:56.927858+00:00
+[2023-10-22T20:20:56.938+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:21:33.321+0400] {processor.py:157} INFO - Started process (PID=6822) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:21:33.323+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:21:33.324+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:33.323+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:21:33.328+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:21:33.336+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:33.336+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:21:33.344+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:21:33.344+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:21:33.344573+00:00, run_after=2023-10-22T16:21:33.344573+00:00
+[2023-10-22T20:21:33.358+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:22:11.964+0400] {processor.py:157} INFO - Started process (PID=6861) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:11.966+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:22:11.967+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:11.966+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:11.971+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:11.981+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:11.981+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:22:11.990+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:11.990+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:22:11.989996+00:00, run_after=2023-10-22T16:22:11.989996+00:00
+[2023-10-22T20:22:12.002+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2023-10-22T20:22:48.942+0400] {processor.py:157} INFO - Started process (PID=6899) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:48.944+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:22:48.945+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:48.945+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:48.950+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:22:48.959+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:48.959+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:22:48.967+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:22:48.967+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:22:48.967339+00:00, run_after=2023-10-22T16:22:48.967339+00:00
+[2023-10-22T20:22:48.978+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:23:25.786+0400] {processor.py:157} INFO - Started process (PID=6937) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:23:25.787+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:23:25.788+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:25.787+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:23:25.792+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:23:25.801+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:25.801+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:23:25.811+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:23:25.810+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:23:25.810839+00:00, run_after=2023-10-22T16:23:25.810839+00:00
+[2023-10-22T20:23:25.826+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.042 seconds
+[2023-10-22T20:24:02.053+0400] {processor.py:157} INFO - Started process (PID=6974) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:02.054+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:24:02.056+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:02.055+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:02.060+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:02.068+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:02.068+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:24:02.075+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:02.075+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:24:02.075616+00:00, run_after=2023-10-22T16:24:02.075616+00:00
+[2023-10-22T20:24:02.086+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:24:38.542+0400] {processor.py:157} INFO - Started process (PID=7011) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:38.544+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:24:38.545+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:38.545+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:38.549+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:24:38.557+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:38.557+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:24:38.565+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:24:38.565+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:24:38.565016+00:00, run_after=2023-10-22T16:24:38.565016+00:00
+[2023-10-22T20:24:38.576+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-10-22T20:25:17.480+0400] {processor.py:157} INFO - Started process (PID=7049) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:25:17.481+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:25:17.482+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:17.482+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:25:17.489+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:25:17.496+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:17.496+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:25:17.504+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:25:17.504+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:25:17.504032+00:00, run_after=2023-10-22T16:25:17.504032+00:00
+[2023-10-22T20:25:17.515+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-10-22T20:26:02.070+0400] {processor.py:157} INFO - Started process (PID=7135) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:02.073+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:26:02.074+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:02.073+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:02.078+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:02.087+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:02.086+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:26:02.097+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:02.097+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:26:02.097559+00:00, run_after=2023-10-22T16:26:02.097559+00:00
+[2023-10-22T20:26:02.111+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.044 seconds
+[2023-10-22T20:26:47.439+0400] {processor.py:157} INFO - Started process (PID=7195) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:47.440+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:26:47.441+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:47.440+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:47.445+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:26:47.454+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:47.454+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:26:47.465+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:26:47.465+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:26:47.464917+00:00, run_after=2023-10-22T16:26:47.464917+00:00
+[2023-10-22T20:26:47.476+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2023-10-22T20:27:28.757+0400] {processor.py:157} INFO - Started process (PID=7245) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:27:28.759+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:27:28.760+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:28.759+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:27:28.764+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:27:28.773+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:28.773+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:27:28.783+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:27:28.783+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:27:28.782894+00:00, run_after=2023-10-22T16:27:28.782894+00:00
+[2023-10-22T20:27:28.793+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:28:06.168+0400] {processor.py:157} INFO - Started process (PID=7292) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:06.169+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:28:06.171+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:06.170+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:06.178+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:06.186+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:06.186+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:28:06.193+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:06.193+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:28:06.193780+00:00, run_after=2023-10-22T16:28:06.193780+00:00
+[2023-10-22T20:28:06.204+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:28:44.219+0400] {processor.py:157} INFO - Started process (PID=7331) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:44.220+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:28:44.221+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:44.221+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:44.226+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:28:44.236+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:44.235+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:28:44.244+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:28:44.244+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:28:44.244369+00:00, run_after=2023-10-22T16:28:44.244369+00:00
+[2023-10-22T20:28:44.255+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:29:20.954+0400] {processor.py:157} INFO - Started process (PID=7369) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:20.956+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:29:20.957+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:20.956+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:20.963+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:20.971+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:20.971+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:29:20.979+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:20.979+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:29:20.979394+00:00, run_after=2023-10-22T16:29:20.979394+00:00
+[2023-10-22T20:29:20.991+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2023-10-22T20:29:59.110+0400] {processor.py:157} INFO - Started process (PID=7406) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:59.112+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:29:59.113+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:59.112+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:59.119+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:29:59.126+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:59.126+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:29:59.134+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:29:59.134+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:29:59.133964+00:00, run_after=2023-10-22T16:29:59.133964+00:00
+[2023-10-22T20:29:59.144+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2023-10-22T20:30:39.610+0400] {processor.py:157} INFO - Started process (PID=7446) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:30:39.612+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:30:39.613+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:39.612+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:30:39.618+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:30:39.626+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:39.626+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:30:39.633+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:30:39.633+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:30:39.633594+00:00, run_after=2023-10-22T16:30:39.633594+00:00
+[2023-10-22T20:30:39.644+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2023-10-22T20:31:20.065+0400] {processor.py:157} INFO - Started process (PID=7486) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:20.067+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:31:20.068+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:20.067+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:20.072+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:20.079+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:20.079+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:31:20.089+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:20.089+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:31:20.088987+00:00, run_after=2023-10-22T16:31:20.088987+00:00
+[2023-10-22T20:31:20.105+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2023-10-22T20:31:59.131+0400] {processor.py:157} INFO - Started process (PID=7524) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:59.133+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:31:59.134+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:59.133+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:59.137+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:31:59.148+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:59.148+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:31:59.158+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:31:59.158+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:31:59.157871+00:00, run_after=2023-10-22T16:31:59.157871+00:00
+[2023-10-22T20:31:59.171+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.043 seconds
+[2023-10-22T20:32:35.619+0400] {processor.py:157} INFO - Started process (PID=7562) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:32:35.620+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:32:35.621+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:35.621+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:32:35.626+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:32:35.634+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:35.634+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:32:35.645+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:32:35.645+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:32:35.645420+00:00, run_after=2023-10-22T16:32:35.645420+00:00
+[2023-10-22T20:32:35.657+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.041 seconds
+[2023-10-22T20:33:12.534+0400] {processor.py:157} INFO - Started process (PID=7602) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:12.534+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:33:12.535+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:12.534+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:12.539+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:12.547+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:12.547+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:33:12.555+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:12.555+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:33:12.555058+00:00, run_after=2023-10-22T16:33:12.555058+00:00
+[2023-10-22T20:33:12.570+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-10-22T20:33:49.744+0400] {processor.py:157} INFO - Started process (PID=7671) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:49.745+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:33:49.746+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:49.745+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:49.751+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:33:49.759+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:49.759+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:33:49.767+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:33:49.767+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:33:49.766938+00:00, run_after=2023-10-22T16:33:49.766938+00:00
+[2023-10-22T20:33:49.778+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2023-10-22T20:34:26.969+0400] {processor.py:157} INFO - Started process (PID=7712) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:34:26.970+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:34:26.972+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:26.971+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:34:26.977+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:34:26.985+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:26.985+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:34:26.993+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:34:26.992+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:34:26.992793+00:00, run_after=2023-10-22T16:34:26.992793+00:00
+[2023-10-22T20:34:27.003+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-10-22T20:35:02.545+0400] {processor.py:157} INFO - Started process (PID=7751) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:02.546+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:35:02.547+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:02.546+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:02.550+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:02.558+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:02.558+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:35:02.567+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:02.567+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:35:02.566939+00:00, run_after=2023-10-22T16:35:02.566939+00:00
+[2023-10-22T20:35:02.579+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:35:41.670+0400] {processor.py:157} INFO - Started process (PID=7807) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:41.671+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:35:41.672+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:41.672+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:41.676+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:35:41.684+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:41.684+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:35:41.693+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:35:41.693+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:35:41.693116+00:00, run_after=2023-10-22T16:35:41.693116+00:00
+[2023-10-22T20:35:41.704+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2023-10-22T20:36:19.520+0400] {processor.py:157} INFO - Started process (PID=7845) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:19.522+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:36:19.523+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:19.522+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:19.530+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:19.539+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:19.539+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:36:19.546+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:19.546+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:36:19.546454+00:00, run_after=2023-10-22T16:36:19.546454+00:00
+[2023-10-22T20:36:19.556+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:36:56.904+0400] {processor.py:157} INFO - Started process (PID=7884) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:56.906+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:36:56.907+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:56.906+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:56.911+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:36:56.920+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:56.920+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:36:56.928+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:36:56.928+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:36:56.928502+00:00, run_after=2023-10-22T16:36:56.928502+00:00
+[2023-10-22T20:36:56.939+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.038 seconds
+[2023-10-22T20:37:36.355+0400] {processor.py:157} INFO - Started process (PID=7921) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:37:36.357+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:37:36.358+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:36.357+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:37:36.365+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:37:36.373+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:36.373+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:37:36.380+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:37:36.380+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:37:36.380531+00:00, run_after=2023-10-22T16:37:36.380531+00:00
+[2023-10-22T20:37:36.392+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.040 seconds
+[2023-10-22T20:38:15.812+0400] {processor.py:157} INFO - Started process (PID=7963) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:15.814+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:38:15.815+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:15.814+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:15.820+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:15.827+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:15.827+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:38:15.836+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:15.836+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:38:15.836503+00:00, run_after=2023-10-22T16:38:15.836503+00:00
+[2023-10-22T20:38:15.846+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds
+[2023-10-22T20:38:54.889+0400] {processor.py:157} INFO - Started process (PID=8004) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:54.890+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:38:54.891+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:54.891+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:54.895+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:38:54.904+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:54.903+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:38:54.911+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:38:54.911+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:38:54.911305+00:00, run_after=2023-10-22T16:38:54.911305+00:00
+[2023-10-22T20:38:54.922+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:39:32.519+0400] {processor.py:157} INFO - Started process (PID=8040) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:39:32.521+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:39:32.522+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:32.521+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:39:32.527+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:39:32.535+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:32.535+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:39:32.542+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:39:32.542+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:39:32.542573+00:00, run_after=2023-10-22T16:39:32.542573+00:00
+[2023-10-22T20:39:32.553+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:40:12.220+0400] {processor.py:157} INFO - Started process (PID=8080) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:12.222+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:40:12.223+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:12.222+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:12.228+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:12.236+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:12.236+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:40:12.243+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:12.243+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:40:12.243310+00:00, run_after=2023-10-22T16:40:12.243310+00:00
+[2023-10-22T20:40:12.253+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2023-10-22T20:40:51.613+0400] {processor.py:157} INFO - Started process (PID=8118) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:51.614+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:40:51.615+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:51.615+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:51.619+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:40:51.627+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:51.627+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:40:51.636+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:40:51.635+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:40:51.635853+00:00, run_after=2023-10-22T16:40:51.635853+00:00
+[2023-10-22T20:40:51.698+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2023-10-22T20:41:32.423+0400] {processor.py:157} INFO - Started process (PID=8158) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:41:32.425+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:41:32.426+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:32.425+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:41:32.431+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:41:32.439+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:32.439+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:41:32.449+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:41:32.449+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:41:32.449409+00:00, run_after=2023-10-22T16:41:32.449409+00:00
+[2023-10-22T20:41:32.465+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.045 seconds
+[2023-10-22T20:42:26.421+0400] {processor.py:157} INFO - Started process (PID=8274) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:42:26.422+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:42:26.423+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:26.423+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:42:26.430+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:42:26.440+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:26.440+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:42:26.451+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:42:26.451+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:42:26.451111+00:00, run_after=2023-10-22T16:42:26.451111+00:00
+[2023-10-22T20:42:26.514+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.097 seconds
+[2023-10-22T20:43:06.309+0400] {processor.py:157} INFO - Started process (PID=8356) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:06.311+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:43:06.312+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:06.312+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:06.317+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:06.325+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:06.325+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:43:06.334+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:06.334+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:43:06.333894+00:00, run_after=2023-10-22T16:43:06.333894+00:00
+[2023-10-22T20:43:06.345+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.039 seconds
+[2023-10-22T20:43:43.446+0400] {processor.py:157} INFO - Started process (PID=8414) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:43.447+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-10-22T20:43:43.448+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:43.448+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:43.454+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-10-22T20:43:43.462+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:43.462+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T20:43:43.470+0400] {logging_mixin.py:151} INFO - [2023-10-22T20:43:43.470+0400] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2023-10-21T16:43:43.470317+00:00, run_after=2023-10-22T16:43:43.470317+00:00
+[2023-10-22T20:43:43.534+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
