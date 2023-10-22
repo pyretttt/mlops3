@@ -1,0 +1,95 @@
+[2023-10-22T19:10:09.656+0400] {processor.py:157} INFO - Started process (PID=1391) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:09.657+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:10:09.658+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.657+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:09.664+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:09.711+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.711+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:09.717+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.717+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:09.722+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.722+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:09.722+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.722+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:09.726+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.726+0400] {dag.py:2963} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2023-10-22T19:10:09.726+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:09.726+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:10:09.737+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.084 seconds
+[2023-10-22T19:10:57.644+0400] {processor.py:157} INFO - Started process (PID=1453) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:57.646+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:10:57.647+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:57.646+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:57.655+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:10:57.664+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:57.664+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:57.670+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:57.670+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:10:57.682+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2023-10-22T19:11:43.230+0400] {processor.py:157} INFO - Started process (PID=1672) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:11:43.231+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:11:43.232+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:43.232+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:11:43.237+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:11:43.248+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:43.247+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:11:43.257+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:43.257+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:11:43.271+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.042 seconds
+[2023-10-22T19:12:35.040+0400] {processor.py:157} INFO - Started process (PID=1727) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:12:35.041+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:12:35.042+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:35.042+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:12:35.046+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:12:35.057+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:35.057+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:12:35.065+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:35.065+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:12:35.077+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.040 seconds
+[2023-10-22T19:13:23.209+0400] {processor.py:157} INFO - Started process (PID=1778) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:13:23.211+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:13:23.212+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:23.212+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:13:23.219+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:13:23.228+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:23.228+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:13:23.232+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:23.232+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:13:23.246+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.040 seconds
+[2023-10-22T19:14:15.065+0400] {processor.py:157} INFO - Started process (PID=1851) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:14:15.066+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:14:15.067+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:15.066+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:14:15.071+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:14:15.080+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:15.080+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:14:15.085+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:15.085+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:14:15.096+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.037 seconds
+[2023-10-22T19:15:05.886+0400] {processor.py:157} INFO - Started process (PID=1904) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:15:05.888+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:15:05.889+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:05.888+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:15:05.894+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:15:05.903+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:05.903+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:15:05.911+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:05.911+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:15:05.922+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.038 seconds
+[2023-10-22T19:16:01.178+0400] {processor.py:157} INFO - Started process (PID=1958) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:01.180+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:16:01.182+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:01.181+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:01.190+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:01.199+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:01.199+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:01.204+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:01.204+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:16:01.215+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.041 seconds
+[2023-10-22T19:16:41.045+0400] {processor.py:157} INFO - Started process (PID=1999) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:41.045+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:16:41.046+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:41.046+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:41.049+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:16:41.057+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:41.057+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:41.063+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:41.063+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:16:41.073+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.032 seconds
+[2023-10-22T19:17:36.814+0400] {processor.py:157} INFO - Started process (PID=2071) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:17:36.816+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:17:36.817+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.816+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:17:36.822+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:17:36.831+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.831+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:17:36.836+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.836+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:17:36.848+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.037 seconds
+[2023-10-22T19:18:31.674+0400] {processor.py:157} INFO - Started process (PID=2146) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:18:31.676+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:18:31.677+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:31.676+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:18:31.684+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:18:31.693+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:31.693+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:18:31.699+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:31.699+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:18:31.709+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.038 seconds
+[2023-10-22T19:19:25.340+0400] {processor.py:157} INFO - Started process (PID=2200) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:19:25.341+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:19:25.342+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:25.342+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:19:25.349+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:19:25.357+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:25.357+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:19:25.362+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:25.362+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:19:25.372+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.035 seconds
+[2023-10-22T19:20:18.265+0400] {processor.py:157} INFO - Started process (PID=2254) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:20:18.266+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2023-10-22T19:20:18.267+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:18.267+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:20:18.272+0400] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2023-10-22T19:20:18.279+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:18.279+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:20:18.284+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:18.284+0400] {dag.py:3722} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2023-10-22T19:20:18.294+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.033 seconds

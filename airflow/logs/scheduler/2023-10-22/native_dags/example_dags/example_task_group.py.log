@@ -1,0 +1,130 @@
+[2023-10-22T19:08:03.185+0400] {processor.py:157} INFO - Started process (PID=1374) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:08:03.186+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:08:03.187+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.186+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:08:03.204+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:08:03.325+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.325+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:08:03.334+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.334+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:08:03.348+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.347+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:08:03.348+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.348+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:08:03.352+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.352+0400] {dag.py:2963} INFO - Creating ORM DAG for example_task_group
+[2023-10-22T19:08:03.355+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:08:03.355+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:08:03.355310+00:00, run_after=2023-10-22T15:08:03.355310+00:00
+[2023-10-22T19:08:03.367+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.185 seconds
+[2023-10-22T19:10:45.325+0400] {processor.py:157} INFO - Started process (PID=1441) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:10:45.327+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:10:45.330+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:45.328+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:10:45.337+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:10:45.348+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:45.348+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:45.356+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:45.356+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:10:45.356128+00:00, run_after=2023-10-22T15:10:45.356128+00:00
+[2023-10-22T19:10:45.368+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2023-10-22T19:11:20.326+0400] {processor.py:157} INFO - Started process (PID=1483) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:11:20.327+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:11:20.328+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:20.327+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:11:20.332+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:11:20.342+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:20.342+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:11:20.353+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:20.353+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:11:20.353252+00:00, run_after=2023-10-22T15:11:20.353252+00:00
+[2023-10-22T19:11:20.371+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2023-10-22T19:12:05.762+0400] {processor.py:157} INFO - Started process (PID=1699) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:05.764+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:12:05.766+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:05.764+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:05.770+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:05.778+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:05.778+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:12:05.785+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:05.785+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:12:05.785328+00:00, run_after=2023-10-22T15:12:05.785328+00:00
+[2023-10-22T19:12:05.795+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.036 seconds
+[2023-10-22T19:12:45.450+0400] {processor.py:157} INFO - Started process (PID=1738) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:45.452+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:12:45.453+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:45.452+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:45.458+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:12:45.467+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:45.466+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:12:45.475+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:45.475+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:12:45.475096+00:00, run_after=2023-10-22T15:12:45.475096+00:00
+[2023-10-22T19:12:45.486+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.040 seconds
+[2023-10-22T19:13:18.189+0400] {processor.py:157} INFO - Started process (PID=1773) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:18.191+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:13:18.192+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:18.191+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:18.199+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:18.206+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:18.206+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:13:18.214+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:18.214+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:13:18.214416+00:00, run_after=2023-10-22T15:13:18.214416+00:00
+[2023-10-22T19:13:18.226+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-10-22T19:13:52.048+0400] {processor.py:157} INFO - Started process (PID=1829) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:52.050+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:13:52.051+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:52.051+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:52.057+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:13:52.066+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:52.066+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:13:52.074+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:52.074+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:13:52.074750+00:00, run_after=2023-10-22T15:13:52.074750+00:00
+[2023-10-22T19:13:52.086+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-10-22T19:14:28.614+0400] {processor.py:157} INFO - Started process (PID=1865) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:14:28.615+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:14:28.616+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:28.615+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:14:28.620+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:14:28.631+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:28.631+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:14:28.641+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:28.641+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:14:28.641067+00:00, run_after=2023-10-22T15:14:28.641067+00:00
+[2023-10-22T19:14:28.655+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2023-10-22T19:15:03.180+0400] {processor.py:157} INFO - Started process (PID=1901) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:03.181+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:15:03.183+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:03.182+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:03.189+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:03.197+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:03.196+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:15:03.204+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:03.204+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:15:03.204231+00:00, run_after=2023-10-22T15:15:03.204231+00:00
+[2023-10-22T19:15:03.214+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.037 seconds
+[2023-10-22T19:15:38.162+0400] {processor.py:157} INFO - Started process (PID=1937) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:38.163+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:15:38.164+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:38.164+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:38.170+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:15:38.177+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:38.177+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:15:38.185+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:38.185+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:15:38.185428+00:00, run_after=2023-10-22T15:15:38.185428+00:00
+[2023-10-22T19:15:38.195+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.037 seconds
+[2023-10-22T19:16:17.383+0400] {processor.py:157} INFO - Started process (PID=1973) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:17.385+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:16:17.386+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:17.385+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:17.393+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:17.401+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:17.401+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:17.410+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:17.410+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:16:17.410421+00:00, run_after=2023-10-22T15:16:17.410421+00:00
+[2023-10-22T19:16:17.420+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.040 seconds
+[2023-10-22T19:16:55.274+0400] {processor.py:157} INFO - Started process (PID=2012) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:55.275+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:16:55.277+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:55.276+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:55.285+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:16:55.293+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:55.293+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:55.300+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:55.300+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:16:55.300733+00:00, run_after=2023-10-22T15:16:55.300733+00:00
+[2023-10-22T19:16:55.311+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-10-22T19:17:32.884+0400] {processor.py:157} INFO - Started process (PID=2067) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:17:32.886+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:17:32.887+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:32.886+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:17:32.898+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:17:32.910+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:32.909+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:17:32.921+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:32.920+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:17:32.920300+00:00, run_after=2023-10-22T15:17:32.920300+00:00
+[2023-10-22T19:17:32.932+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2023-10-22T19:18:08.128+0400] {processor.py:157} INFO - Started process (PID=2122) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:08.129+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:18:08.130+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:08.130+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:08.137+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:08.147+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:08.147+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:18:08.155+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:08.155+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:18:08.155355+00:00, run_after=2023-10-22T15:18:08.155355+00:00
+[2023-10-22T19:18:08.166+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-10-22T19:18:44.842+0400] {processor.py:157} INFO - Started process (PID=2159) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:44.843+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:18:44.845+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:44.844+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:44.850+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:18:44.858+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:44.858+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:18:44.870+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:44.870+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:18:44.869911+00:00, run_after=2023-10-22T15:18:44.869911+00:00
+[2023-10-22T19:18:44.882+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2023-10-22T19:19:21.261+0400] {processor.py:157} INFO - Started process (PID=2196) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:21.263+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:19:21.264+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:21.263+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:21.272+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:21.283+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:21.283+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:19:21.295+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:21.295+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:19:21.294782+00:00, run_after=2023-10-22T15:19:21.294782+00:00
+[2023-10-22T19:19:21.314+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.055 seconds
+[2023-10-22T19:19:55.861+0400] {processor.py:157} INFO - Started process (PID=2230) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:55.863+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:19:55.864+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:55.863+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:55.870+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:19:55.881+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:55.881+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:19:55.893+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:55.893+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:19:55.892923+00:00, run_after=2023-10-22T15:19:55.892923+00:00
+[2023-10-22T19:19:55.909+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2023-10-22T19:20:31.237+0400] {processor.py:157} INFO - Started process (PID=2269) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:20:31.238+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-10-22T19:20:31.239+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:31.239+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:20:31.247+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-10-22T19:20:31.255+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:31.255+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:20:31.262+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:31.262+0400] {dag.py:3722} INFO - Setting next_dagrun for example_task_group to 2023-10-21T15:20:31.262531+00:00, run_after=2023-10-22T15:20:31.262531+00:00
+[2023-10-22T19:20:31.273+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.039 seconds

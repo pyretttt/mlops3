@@ -1,0 +1,62 @@
+[2023-10-22T19:10:24.114+0400] {processor.py:157} INFO - Started process (PID=1406) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:10:24.115+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:10:24.115+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:24.115+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:10:24.116+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:24.116+0400] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-22T19:10:24.117+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:10:24.123+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.010 seconds
+[2023-10-22T19:11:11.461+0400] {processor.py:157} INFO - Started process (PID=1473) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:11.462+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:11:11.462+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:11.462+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:11.465+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:11.464+0400] {workday.py:36} WARNING - Could not import pandas. Holidays will not be considered.
+[2023-10-22T19:11:11.465+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:11.469+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.010 seconds
+[2023-10-22T19:11:58.795+0400] {processor.py:157} INFO - Started process (PID=1690) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:58.796+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:11:58.797+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:58.797+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:58.996+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:11:59.000+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.208 seconds
+[2023-10-22T19:12:52.468+0400] {processor.py:157} INFO - Started process (PID=1745) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:12:52.470+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:12:52.473+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:52.472+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:12:52.658+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:12:52.670+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.204 seconds
+[2023-10-22T19:13:39.760+0400] {processor.py:157} INFO - Started process (PID=1794) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:13:39.761+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:13:39.761+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:39.761+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:13:39.938+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:13:39.944+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.186 seconds
+[2023-10-22T19:14:34.377+0400] {processor.py:157} INFO - Started process (PID=1870) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:14:34.379+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:14:34.380+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:34.379+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:14:34.551+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:14:34.556+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.181 seconds
+[2023-10-22T19:15:26.390+0400] {processor.py:157} INFO - Started process (PID=1923) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:15:26.392+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:15:26.393+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:26.393+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:15:26.643+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:15:26.647+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.261 seconds
+[2023-10-22T19:16:23.733+0400] {processor.py:157} INFO - Started process (PID=1979) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:16:23.734+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:16:23.735+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:23.735+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:16:23.978+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:16:23.981+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.251 seconds
+[2023-10-22T19:17:20.903+0400] {processor.py:157} INFO - Started process (PID=2053) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:17:20.905+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:17:20.907+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:20.906+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:17:21.214+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:17:21.217+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.319 seconds
+[2023-10-22T19:18:13.349+0400] {processor.py:157} INFO - Started process (PID=2127) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:18:13.350+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:18:13.351+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:13.351+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:18:13.579+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:18:13.582+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.237 seconds
+[2023-10-22T19:19:09.314+0400] {processor.py:157} INFO - Started process (PID=2182) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:19:09.316+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:19:09.317+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:09.316+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:19:09.546+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:19:09.550+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.238 seconds
+[2023-10-22T19:20:00.087+0400] {processor.py:157} INFO - Started process (PID=2234) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:20:00.089+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-10-22T19:20:00.090+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:00.090+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:20:00.391+0400] {processor.py:841} WARNING - No viable dags retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-10-22T19:20:00.397+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.315 seconds

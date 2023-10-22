@@ -1,0 +1,102 @@
+[2023-10-22T19:10:05.703+0400] {processor.py:157} INFO - Started process (PID=1387) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:05.704+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:10:05.705+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.704+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:05.714+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:05.762+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.762+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:05.769+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.769+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:05.774+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.773+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:05.774+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.774+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:05.778+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.778+0400] {dag.py:2963} INFO - Creating ORM DAG for latest_only
+[2023-10-22T19:10:05.782+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:05.782+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:10:05.782571+00:00, run_after=2023-10-22T15:10:05.782571+00:00
+[2023-10-22T19:10:05.793+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.093 seconds
+[2023-10-22T19:10:53.625+0400] {processor.py:157} INFO - Started process (PID=1449) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:53.626+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:10:53.627+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:53.627+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:53.634+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:10:53.641+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:53.641+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:53.651+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:53.651+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:10:53.651348+00:00, run_after=2023-10-22T15:10:53.651348+00:00
+[2023-10-22T19:10:53.662+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-10-22T19:11:39.229+0400] {processor.py:157} INFO - Started process (PID=1662) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:11:39.230+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:11:39.231+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:39.231+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:11:39.236+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:11:39.245+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:39.245+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:11:39.254+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:39.254+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:11:39.254561+00:00, run_after=2023-10-22T15:11:39.254561+00:00
+[2023-10-22T19:11:39.268+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-10-22T19:12:31.091+0400] {processor.py:157} INFO - Started process (PID=1723) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:12:31.092+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:12:31.092+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:31.092+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:12:31.096+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:12:31.105+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:31.105+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:12:31.114+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:31.114+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:12:31.114472+00:00, run_after=2023-10-22T15:12:31.114472+00:00
+[2023-10-22T19:12:31.125+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2023-10-22T19:13:19.399+0400] {processor.py:157} INFO - Started process (PID=1774) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:13:19.400+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:13:19.402+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:19.401+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:13:19.408+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:13:19.418+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:19.418+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:13:19.427+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:19.427+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:13:19.427378+00:00, run_after=2023-10-22T15:13:19.427378+00:00
+[2023-10-22T19:13:19.438+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-10-22T19:14:10.332+0400] {processor.py:157} INFO - Started process (PID=1846) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:10.334+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:14:10.335+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:10.334+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:10.341+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:10.353+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:10.353+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:14:10.362+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:10.361+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:14:10.361818+00:00, run_after=2023-10-22T15:14:10.361818+00:00
+[2023-10-22T19:14:10.379+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.049 seconds
+[2023-10-22T19:14:49.819+0400] {processor.py:157} INFO - Started process (PID=1887) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:49.819+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:14:49.820+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:49.820+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:49.824+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:14:49.834+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:49.834+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:14:49.845+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:49.845+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:14:49.845388+00:00, run_after=2023-10-22T15:14:49.845388+00:00
+[2023-10-22T19:14:49.858+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.043 seconds
+[2023-10-22T19:15:41.934+0400] {processor.py:157} INFO - Started process (PID=1940) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:15:41.937+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:15:41.938+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:41.937+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:15:41.943+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:15:41.951+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:41.951+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:15:41.959+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:41.959+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:15:41.959417+00:00, run_after=2023-10-22T15:15:41.959417+00:00
+[2023-10-22T19:15:41.970+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.038 seconds
+[2023-10-22T19:16:20.208+0400] {processor.py:157} INFO - Started process (PID=1976) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:20.209+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:16:20.210+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:20.210+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:20.214+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:20.224+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:20.224+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:20.235+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:20.235+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:16:20.235058+00:00, run_after=2023-10-22T15:16:20.235058+00:00
+[2023-10-22T19:16:20.251+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.047 seconds
+[2023-10-22T19:16:58.868+0400] {processor.py:157} INFO - Started process (PID=2015) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:58.869+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:16:58.871+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:58.870+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:58.877+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:16:58.886+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:58.886+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:58.896+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:58.896+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:16:58.895906+00:00, run_after=2023-10-22T15:16:58.895906+00:00
+[2023-10-22T19:16:58.910+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.045 seconds
+[2023-10-22T19:17:36.408+0400] {processor.py:157} INFO - Started process (PID=2070) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:17:36.409+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:17:36.410+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.410+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:17:36.417+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:17:36.425+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.425+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:17:36.434+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:36.434+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:17:36.434070+00:00, run_after=2023-10-22T15:17:36.434070+00:00
+[2023-10-22T19:17:36.444+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-10-22T19:18:30.399+0400] {processor.py:157} INFO - Started process (PID=2145) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:18:30.401+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:18:30.403+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:30.402+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:18:30.414+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:18:30.422+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:30.422+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:18:30.431+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:30.431+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:18:30.431040+00:00, run_after=2023-10-22T15:18:30.431040+00:00
+[2023-10-22T19:18:30.443+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.048 seconds
+[2023-10-22T19:19:23.718+0400] {processor.py:157} INFO - Started process (PID=2198) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:19:23.719+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:19:23.720+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:23.720+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:19:23.726+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:19:23.735+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:23.735+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:19:23.744+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:23.743+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:19:23.743816+00:00, run_after=2023-10-22T15:19:23.743816+00:00
+[2023-10-22T19:19:23.755+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-10-22T19:20:16.224+0400] {processor.py:157} INFO - Started process (PID=2252) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:20:16.225+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-10-22T19:20:16.226+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:16.226+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:20:16.232+0400] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-10-22T19:20:16.240+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:16.240+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:20:16.247+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:20:16.247+0400] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2023-10-22T11:20:16.247482+00:00, run_after=2023-10-22T15:20:16.247482+00:00
+[2023-10-22T19:20:16.259+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.039 seconds

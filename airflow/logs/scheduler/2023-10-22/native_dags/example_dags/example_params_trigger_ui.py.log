@@ -1,0 +1,88 @@
+[2023-10-22T19:10:18.273+0400] {processor.py:157} INFO - Started process (PID=1398) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:10:18.274+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:10:18.275+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.274+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:10:18.283+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:10:18.337+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.337+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:18.343+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.343+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:18.348+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.348+0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-10-22T19:10:18.348+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.348+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:10:18.353+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.353+0400] {dag.py:2963} INFO - Creating ORM DAG for example_params_trigger_ui
+[2023-10-22T19:10:18.353+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:10:18.353+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:10:18.366+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.098 seconds
+[2023-10-22T19:11:05.130+0400] {processor.py:157} INFO - Started process (PID=1460) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:05.131+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:11:05.132+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:05.131+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:05.144+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:05.170+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:05.170+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:11:05.178+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:05.177+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:11:05.191+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.065 seconds
+[2023-10-22T19:11:52.909+0400] {processor.py:157} INFO - Started process (PID=1684) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:52.910+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:11:52.910+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:52.910+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:52.918+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:11:52.938+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:52.937+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:11:52.949+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:11:52.949+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:11:52.969+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.062 seconds
+[2023-10-22T19:12:41.477+0400] {processor.py:157} INFO - Started process (PID=1734) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:12:41.479+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:12:41.480+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:41.479+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:12:41.504+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:12:41.539+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:41.539+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:12:41.548+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:12:41.548+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:12:41.575+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.104 seconds
+[2023-10-22T19:13:30.713+0400] {processor.py:157} INFO - Started process (PID=1785) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:13:30.715+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:13:30.716+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:30.715+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:13:30.727+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:13:30.752+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:30.752+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:13:30.760+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:13:30.759+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:13:30.777+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.068 seconds
+[2023-10-22T19:14:21.807+0400] {processor.py:157} INFO - Started process (PID=1858) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:14:21.809+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:14:21.810+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:21.809+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:14:21.820+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:14:21.838+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:21.838+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:14:21.844+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:14:21.843+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:14:21.856+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.052 seconds
+[2023-10-22T19:15:13.723+0400] {processor.py:157} INFO - Started process (PID=1911) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:15:13.725+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:15:13.725+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:13.725+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:15:13.733+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:15:13.751+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:13.751+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:15:13.757+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:15:13.757+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:15:13.769+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.049 seconds
+[2023-10-22T19:16:08.519+0400] {processor.py:157} INFO - Started process (PID=1965) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:16:08.521+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:16:08.522+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:08.521+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:16:08.531+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:16:08.549+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:08.549+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:16:08.554+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:16:08.554+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:16:08.565+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.051 seconds
+[2023-10-22T19:17:05.700+0400] {processor.py:157} INFO - Started process (PID=2039) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:05.702+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:17:05.703+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:05.702+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:05.713+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:05.729+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:05.728+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:17:05.733+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:05.733+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:17:05.744+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.047 seconds
+[2023-10-22T19:17:59.636+0400] {processor.py:157} INFO - Started process (PID=2114) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:59.637+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:17:59.638+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:59.638+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:59.646+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:17:59.665+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:59.665+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:17:59.670+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:17:59.669+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:17:59.681+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.050 seconds
+[2023-10-22T19:18:55.252+0400] {processor.py:157} INFO - Started process (PID=2169) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:18:55.254+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:18:55.255+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:55.254+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:18:55.264+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:18:55.281+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:55.281+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:18:55.286+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:18:55.286+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:18:55.297+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.048 seconds
+[2023-10-22T19:19:47.338+0400] {processor.py:157} INFO - Started process (PID=2222) to work on /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:19:47.339+0400] {processor.py:829} INFO - Processing file /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-10-22T19:19:47.340+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:47.340+0400] {dagbag.py:536} INFO - Filling up the DagBag from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:19:47.349+0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-10-22T19:19:47.364+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:47.364+0400] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-10-22T19:19:47.369+0400] {logging_mixin.py:151} INFO - [2023-10-22T19:19:47.369+0400] {dag.py:3722} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-10-22T19:19:47.380+0400] {processor.py:179} INFO - Processing /home/pyretttt/repos/mlops3/env/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.045 seconds
